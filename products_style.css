@@ -1,0 +1,32 @@
+
+body {
+    background-color: blue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+header {
+    background-color: #000;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.product {
+    text-align: center;
+    margin: 20px;
+}
+
+.product img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: bold;
+}
